@@ -50,6 +50,12 @@ Este proyecto marca un primer paso en mi viaje como desarrollador, y aunque aún
 - **CSS**
 - **JavaScript**
 
+## Diseño y Responsividad en diferentes Dispositivos
+
+![encriptadorXS](https://github.com/user-attachments/assets/c3521276-5368-4277-adbe-5243eef23494) ......................![encriptadorM](https://github.com/user-attachments/assets/7175a9e3-1b55-4426-a8a2-12fed211c51c)
+
+![encriptadorXL](https://github.com/user-attachments/assets/b4b10c36-c2e0-435e-bc69-82682e4ffc02)
+
 ## Cómo Usar el Encriptador
 
 1. Ingresa el texto que deseas encriptar o desencriptar en el campo de entrada.
